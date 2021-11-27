@@ -1,6 +1,10 @@
-# Yaml content
-layout: page
-title: ABOUT
-permalink: /about
+---
+layout: post
+title: Awesome Blog Post
+excerpt: "Why you should read my website"
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
+---
 
-Test 123
+Text for your post goes here.
