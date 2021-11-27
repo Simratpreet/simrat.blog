@@ -1,6 +1,6 @@
 # Yaml content
 layout: page
 title: ABOUT
-permalink: /about/
+permalink: /about
 
 Test 123
