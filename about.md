@@ -1,5 +1,6 @@
+# Yaml content
 layout: page
-title: "ABOUT"
+title: ABOUT
 permalink: /about/
 
 Test 123
